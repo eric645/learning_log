@@ -1,6 +1,10 @@
 Chapter 18
 ===
 
+<h2><em> I finish this chapter by using Pycharm. </em></h2>
+
+This means you have to change a little way to finish. If anyone have this question, please contact to me, and I will post the meausres to handle the problems.
+
 In this chapter you'll use Django to build Learning Log, a simple web application that lets you keep track of information you've learned about particular topics. This section will help you get a virtual environment set up.
 
 - [Creating a Virtual Environment](#creating-a-virtual-environment)
